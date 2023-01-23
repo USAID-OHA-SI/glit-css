@@ -1,0 +1,134 @@
+@charset "UTF-8";
+/*!
+ * USAID/OHA/SIEI Style Guide
+ * A cheat sheet for data visualisation
+ * Version: 0.0999 
+ * Licensed under MIT (https://github.com/USAID-OHA-SI/glit-css/blob/main/LICENSE)
+ */
+
+/* || MAIN Variables */
+
+:root {
+    /* Fonts */
+    --font-ssp: "Source Sans Pro";
+    --font-ssp-rg: "Source Sans Pro, Regular";
+    --font-ssp-lt: "Source Sans Pro, Light";
+    --font-ssp-sb: "Source Sans Pro, Semi Bold";
+    --font-ssp-bo: "Source Sans Pro, Bold";
+
+    /* Font Weights */
+    --font-w-rg: "Regular";
+    --font-w-lt: "Light";
+    --font-w-sb: "Semi Bold";
+    --font-w-bo: "Bold";
+
+    /* Colors - USAID */
+    --usaid-blue: #002a6c;
+    --usaid-red: #ba0c2f;
+    --usaid-black: #212721;
+    --usaid-medblue: #0067b9;
+    --usaid-lightblue: #a7c6ed;
+    --usaid-darkgray: #6c6463;
+    --usaid-medgray: #8C8985;
+    --usaid-lightgray: #8C8985;
+
+    /* Colors - SIEI */
+    --siei-denim: #2057a7;
+    --siei-denim-light: #;
+    --siei-oldrose: #;
+    --siei-oldrose-light: #;
+    --siei-moody: #;
+    --siei-moody-light: #;
+    --siei-burntsienna: #;
+    --siei-burntsienna-light: #;
+    --siei-scooter: #;
+    --siei-scooter-light: #;
+    --siei-goldensand: #;
+    --siei-goldensand-light: #;
+    --siei-genoa: #;
+    --siei-genoa-light: #;
+    --siei-trolley: #;
+    --siei-trolley-light: #;
+    
+
+    /* Colors - Agencies */
+
+    /* Colors - Gender */
+
+    /* Colors - Performance */
+
+    /* Sizes */
+}
+
+
+/* || FONTS */
+
+/* font family and weights */
+.font-ssp {
+    font-family: var(--font-ssp);
+}
+
+.font-w-reg {
+    font-weight: var(--font-w-rg) !important;
+}
+
+.font-w-light {
+    font-weight: var(--font-w-lt) !important;
+}
+
+.font-w-sbold {
+    font-weight: var(--font-w-sb) !important;
+}
+
+.font-w-bold {
+    font-weight: var(--font-w-bo) !important;
+}
+
+
+/* || MAIN COLORS */
+
+
+
+/* || GENERAL STYLES */
+
+body {
+    /* … */
+}
+  
+h1,
+h2,
+h3,
+h4 {
+    /* … */
+}
+  
+ul {
+    /* … */
+}
+  
+blockquote {
+    /* … */
+}
+
+/* || UTILITIES */
+
+.nobullets {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+  
+.logo {
+/* … */
+}
+
+/* || SITEWIDE */
+
+.main-nav {
+    /* … */
+}
+  
+.logo {
+/* … */
+}
+  
