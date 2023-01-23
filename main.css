@@ -34,30 +34,49 @@
 
     /* Colors - SIEI */
     --siei-denim: #2057a7;
-    --siei-denim-light: #;
-    --siei-oldrose: #;
-    --siei-oldrose-light: #;
-    --siei-moody: #;
-    --siei-moody-light: #;
-    --siei-burntsienna: #;
-    --siei-burntsienna-light: #;
-    --siei-scooter: #;
-    --siei-scooter-light: #;
-    --siei-goldensand: #;
-    --siei-goldensand-light: #;
-    --siei-genoa: #;
-    --siei-genoa-light: #;
-    --siei-trolley: #;
-    --siei-trolley-light: #;
+    --siei-denim-light: #bfddff;
+    --siei-oldrose: #c43d4d;
+    --siei-oldrose-light: #ff939a;
+    --siei-moody: #8980cb;
+    --siei-moody-light: #dfd3ff;
+    --siei-burntsienna: #e07653;
+    --siei-burntsienna-light: #ffcaa2;
+    --siei-scooter: #1e87a5;
+    --siei-scooter-light: #83dbfb;
+    --siei-goldensand: #f2bc40;
+    --siei-goldensand-light: #ffdda2;
+    --siei-genoa: #287c6f;
+    --siei-genoa-light: #7ecfc0;
+    --siei-trolley: #808080;
+    --siei-trolley-light: #e6e6e6;
     
 
     /* Colors - Agencies */
+    --agency-usaid: #2057a7;
+    --agency-cdc: #83dbfb;
+    --agency-dod: #7ecfc0;
+    --agency-pc: #8980cb;
+    --agency-other: #808080;
 
     /* Colors - Gender */
+    --gender-female: #8980cb;
+    --gender-male: #287c6f;
+    --gender-other: #808080;
 
     /* Colors - Performance */
+    --perf-grp1: #ff939a;
+    --perf-grp2: #ffcaa2;
+    --perf-grp3: #1e87a5;
+    --perf-grp4: #808080;
 
     /* Sizes */
+    --size-base: .875em; /*10.5 */
+    --size-title: 1.19em; /* 14pt */
+    --size-subtitle: 1em; /* 12pt */
+    --size-caption: .75em; /* 9pt */
+    --size-axis: .8em; /* 10pt */
+    --size-legend: .95em; /* 11pt */
+    --size-strip: .95em; /* 11pt */
 }
 
 
